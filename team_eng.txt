@@ -1,0 +1,15 @@
+BAT  Eoin Morgan(c)
+ALL  Moeen Ali 
+FBOW James Anderson 
+BAT  Gary Ballance 
+BAT  Ian Bell 
+ALL  Ravi Bopara 
+ALL  Stuart Broad 
+BAT  Jos Buttler(wk) 
+FBOW Steven Finn
+BAT  Alex Hales 
+FBOW Chris Jordan 
+ALL  Joe Root 
+BAT  James Taylor 
+SBOW James Tredwell 
+FBOW Chris Woakes 

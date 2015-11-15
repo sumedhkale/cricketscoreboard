@@ -1,0 +1,15 @@
+BAT Michael Clarke(c) 7 55 27 19 1 4 203.70 4.4 44 0 1 10.00 0 1
+BAT George Bailey 7 21 14 5 0 0 150.00 2.0 21 0 4 10.50 6 4
+FBOW Pat Cummins 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+SBOW Xavier Doherty 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW James Faulkner 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT Aaron Finch 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT Brad Haddin(wk) 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Josh Hazlewood 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Mitchell Johnson 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+ALL Mitchell Marsh 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+ALL Glenn Maxwell 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+ALL Steve Smith 1 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Mitchell Starc 1 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT David Warner 1 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+ALL Shane Watson 1 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0

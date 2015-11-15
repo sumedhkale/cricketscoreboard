@@ -1,0 +1,15 @@
+BAT  MS Dhoni(c/wk)
+BAT  Virat Kohli
+BAT  Ajinkya Rahane
+BAT  Shikhar Dhawan
+BAT  Rohit Sharma
+ALL  Stuart Binny
+ALL  Suresh Raina
+ALL  Ravindra Jadeja
+BAT  Ambati Rayudu
+SBOW Axar Patel
+SBOW Ravichandran Ashwin
+FBOW Bhuvneshwar Kumar
+FBOW Mohammed Shami
+FBOW Umesh Yadav
+FBOW Ishant Sharma

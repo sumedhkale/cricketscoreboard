@@ -1,0 +1,15 @@
+ALL  Jason Holder(c)
+ALL  Marlon Samuels
+BAT  Chris Gayle
+BAT  Darren Bravo
+BAT  Lendl Simmons
+BAT  Dwayne Smith
+ALL  Andre Russell
+BAT  Darren Sammy
+BAT  Jonathan Carter
+BAT  Denesh Ramdin(wk)
+SBOW Sunil Narine
+FBOW Sheldon Cottrell
+FBOW Kemar Roach
+FBOW Jerome Taylor
+SBOW Sulieman Benn

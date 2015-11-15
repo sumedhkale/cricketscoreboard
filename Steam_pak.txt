@@ -1,0 +1,15 @@
+BAT Misbah ul-Haq(c) 4 38 20 24 1 2 190.00 2.5 58 0 0 23.20 0 0
+BAT Ahmed Shehzad 4 84 30 43 1 9 280.00 2.0 16 0 1 8.00 13 1
+BAT Younis Khan 4 1 4 1 0 0 25.00 0.0 0 0 0 0.00 0 0
+ALL Mohammad Hafeez 4 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Haris Sohail 4 1 1 1 0 0 100.00 1.1 29 0 1 26.36 20 1
+BAT Sarfraz Ahmed 4 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Umar Akmal(wk) 4 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT Sohaib Maqsood 4 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+ALL Shahid Afridi 4 0 0 0 0 0 0.00 1.0 18 0 1 18.00 18 1
+FBOW Yasir Shah 4 0 0 0 0 0 0.00 1.0 14 0 0 14.00 0 0
+FBOW Mohammad Irfan 4 0 0 0 0 0 0.00 3.0 41 0 2 13.67 6 2
+ALL Junaid Khan 0 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT Ehsan Adil 0 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Sohail Khan 0 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Wahab Riaz 0 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0

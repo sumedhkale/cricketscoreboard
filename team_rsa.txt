@@ -1,0 +1,15 @@
+BAT  AB-de Villiers(c/wk)
+BAT  Hashim Amla
+FBOW Kyle Abbott
+BAT  Farhaan Behardien
+BAT  Quinton-de Kock
+ALL  JP Duminy
+BAT  Faf-du Plessis
+SBOW Imran Tahir
+BAT  David Miller
+FBOW Morne Morkel
+FBOW Wayne Parnell
+SBOW Aaron Phangiso
+FBOW Vernon Philander
+BAT  Rilee Rossouw
+FBOW Dale Steyn

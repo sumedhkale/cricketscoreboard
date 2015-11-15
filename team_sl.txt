@@ -1,0 +1,15 @@
+ALL  Angelo Mathews(c)
+BAT  Lahiru Thirimanne
+BAT  Dimuth Karunaratne
+ALL  Tillakaratne Dilshan
+BAT  Kumar Sangakkara(wk)
+BAT  Mahela Jayawardene
+BAT  Dinesh Chandimal
+FBOW Thisara Perera
+SBOW Jeevan Mendis
+ALL  Suranga Lakmal
+FBOW Lasith Malinga
+FBOW Dhammika Prasad
+FBOW Nuwan Kulasekara
+SBOW Rangana Herath
+SBOW Sachithra Senanayake

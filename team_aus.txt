@@ -1,0 +1,16 @@
+BAT   Michael Clarke(c)
+BAT   George Bailey
+FBOW  Pat Cummins
+SBOW  Xavier Doherty
+FBOW James Faulkner
+BAT   Aaron Finch
+BAT   Brad Haddin(wk)
+FBOW  Josh Hazlewood
+FBOW  Mitchell Johnson
+ALL   Mitchell Marsh
+ALL   Glenn Maxwell
+ALL   Steve Smith
+FBOW  Mitchell Starc
+BAT   David Warner
+ALL   Shane Watson
+

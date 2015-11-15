@@ -1,0 +1,15 @@
+BAT  Misbah ul-Haq(c)
+BAT  Ahmed Shehzad
+BAT  Younis Khan
+ALL  Mohammad Hafeez
+FBOW Haris Sohail
+BAT  Sarfraz Ahmed
+FBOW Umar Akmal(wk)
+BAT  Sohaib Maqsood
+ALL  Shahid Afridi
+FBOW Yasir Shah
+FBOW Mohammad Irfan
+ALL  Junaid Khan
+BAT  Ehsan Adil
+FBOW Sohail Khan
+FBOW Wahab Riaz

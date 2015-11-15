@@ -1,0 +1,15 @@
+BAT AB-de Villiers(c/wk) 7 57 16 13 0 8 356.25 5.0 32 1 2 6.40 3 1
+BAT Hashim Amla 7 18 10 6 0 1 180.00 1.0 22 0 0 22.00 0 0
+FBOW Kyle Abbott 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT Farhaan Behardien 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT Quinton-de Kock 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+ALL JP Duminy 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT Faf-du Plessis 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+SBOW Imran Tahir 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT David Miller 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Morne Morkel 7 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Wayne Parnell 7 0 0 0 0 0 0.00 1.4 23 0 0 16.43 0 0
+SBOW Aaron Phangiso 6 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Vernon Philander 6 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+BAT Rilee Rossouw 6 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
+FBOW Dale Steyn 6 0 0 0 0 0 0.00 0.0 0 0 0 0.00 0 0
